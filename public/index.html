@@ -33,6 +33,8 @@
       logElement.value += (data + "\n");
     };
     
+    window.WEB_SOCKET_SWF_LOCATION = "http://localhost:8080/WebSocketMainInsecure.swf"
+    
     var jug = new Juggernaut({secure: ('https:' == document.location.protocol)});
     
     jug.on("connect", function(){ log("Connected") });
