@@ -22,7 +22,8 @@ if ('jQuery' in this) jQuery.io = this.io;
 if (typeof window != 'undefined'){
   // WEB_SOCKET_SWF_LOCATION = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//cdn.socket.io/' + this.io.version + '/WebSocketMain.swf';
   if (typeof WEB_SOCKET_SWF_LOCATION === 'undefined')
-    WEB_SOCKET_SWF_LOCATION = '/socket.io/lib/vendor/web-socket-js/WebSocketMain.swf';
+    //WEB_SOCKET_SWF_LOCATION = '/socket.io/lib/vendor/web-socket-js/WebSocketMain.swf';
+    WEB_SOCKET_SWF_LOCATION = 'http://localhost:8080/WebSocketMain.swf';
 }
 
 /**
@@ -115,7 +116,7 @@ if (typeof window != 'undefined'){
 	Transport = io.Transport = function(base, options){
 		this.base = base;
 		this.options = {
-			timeout: 15000 // based on heartbeat interval default
+			timeout: 32000 // based on heartbeat interval default
 		};
 		io.util.merge(this.options, options);
 	};
@@ -1849,11 +1850,11 @@ ASProxy.prototype =
     // the best we can do as far as we know now.
     container.style.position = "absolute";
     if (WebSocket.__isFlashLite()) {
-      container.style.left = "0px";
-      container.style.top = "0px";
+      container.style.left = "100px";
+      container.style.top = "100px";
     } else {
-      container.style.left = "-100px";
-      container.style.top = "-100px";
+      container.style.left = "100px";
+      container.style.top = "100px";
     }
     var holder = document.createElement("div");
     holder.id = "webSocketFlash";

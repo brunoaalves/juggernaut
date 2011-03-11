@@ -1,0 +1,172 @@
+11 Mar 18:26:37 - Your node instance does not have root privileges. This means that the flash XML policy file will be served inline instead of on port 843. This will slow down initial connections slightly.
+11 Mar 18:26:37 - socket.io ready - accepting connections
+11 Mar 18:26:37 - Your node instance does not have root privileges. This means that the flash XML policy file will be served inline instead of on port 843. This will slow down initial connections slightly.
+11 Mar 18:26:37 - socket.io ready - accepting connections
+11 Mar 18:26:45 - socket.io ready - accepting connections
+11 Mar 18:26:45 - socket.io ready - accepting connections
+11 Mar 18:27:46 - Initializing client with transport "xhr-polling"
+11 Mar 18:27:46 - Client 47123323706910014 connected
+11 Mar 18:27:46 - Serving / - Not Modified
+11 Mar 18:27:46 - Initializing client with transport "websocket"
+11 Mar 18:27:46 - Client 7488448861986399 connected
+11 Mar 18:27:46 - Serving /json.js - Not Modified
+11 Mar 18:27:46 - Serving /socket_io.js - Not Modified
+11 Mar 18:27:46 - Serving /juggernaut.js - Not Modified
+11 Mar 18:27:48 - Initializing client with transport "websocket"
+11 Mar 18:27:48 - Client 14404298830777407 connected
+11 Mar 18:27:48 - Received: {"type":"subscribe","channel":"channel1000"}
+11 Mar 18:27:48 - Client subscribing to: channel1000
+11 Mar 18:27:54 - Client 47123323706910014 disconnected
+11 Mar 18:27:59 - Client 7488448861986399 disconnected
+11 Mar 18:27:59 - Client 14404298830777407 disconnected
+11 Mar 18:29:26 - socket.io ready - accepting connections
+11 Mar 18:29:26 - socket.io ready - accepting connections
+11 Mar 18:32:18 - socket.io ready - accepting connections
+11 Mar 18:32:18 - socket.io ready - accepting connections
+11 Mar 18:32:20 - socket.io ready - accepting connections
+11 Mar 18:32:23 - socket.io ready - accepting connections
+11 Mar 18:32:23 - socket.io ready - accepting connections
+11 Mar 18:32:25 - socket.io ready - accepting connections
+11 Mar 18:32:25 - socket.io ready - accepting connections
+11 Mar 18:32:25 - socket.io ready - accepting connections
+11 Mar 19:06:02 - socket.io ready - accepting connections
+11 Mar 19:06:02 - socket.io ready - accepting connections
+11 Mar 19:06:02 - socket.io ready - accepting connections
+11 Mar 19:06:02 - socket.io ready - accepting connections
+11 Mar 19:06:02 - socket.io ready - accepting connections
+11 Mar 19:06:02 - socket.io ready - accepting connections
+11 Mar 19:06:02 - socket.io ready - accepting connections
+11 Mar 19:06:02 - socket.io ready - accepting connections
+11 Mar 19:07:56 - Initializing client with transport "xhr-polling"
+11 Mar 19:07:56 - Client 28861348121427 connected
+11 Mar 19:07:56 - Serving / - Not Modified
+11 Mar 19:07:57 - Initializing client with transport "websocket"
+11 Mar 19:07:57 - Serving /json.js - Not Modified
+11 Mar 19:07:57 - Serving /juggernaut.js - Not Modified
+11 Mar 19:07:57 - Serving /socket_io.js - Not Modified
+11 Mar 19:07:57 - Client 9634048773441464 connected
+11 Mar 19:07:57 - Client 9634048773441464 disconnected
+11 Mar 19:07:58 - Initializing client with transport "websocket"
+11 Mar 19:07:58 - Client 45343716256320477 connected
+11 Mar 19:07:58 - Received: {"type":"subscribe","channel":"channel1000"}
+11 Mar 19:07:58 - Client subscribing to: channel1000
+11 Mar 19:08:04 - Client 28861348121427 disconnected
+11 Mar 19:22:02 - socket.io ready - accepting connections
+11 Mar 19:22:02 - socket.io ready - accepting connections
+11 Mar 19:22:02 - socket.io ready - accepting connections
+11 Mar 19:22:02 - socket.io ready - accepting connections
+11 Mar 19:22:02 - socket.io ready - accepting connections
+11 Mar 19:22:02 - socket.io ready - accepting connections
+11 Mar 19:22:02 - socket.io ready - accepting connections
+11 Mar 19:22:02 - socket.io ready - accepting connections
+11 Mar 19:22:04 - socket.io ready - accepting connections
+11 Mar 19:22:04 - socket.io ready - accepting connections
+11 Mar 19:22:04 - socket.io ready - accepting connections
+11 Mar 19:22:05 - socket.io ready - accepting connections
+11 Mar 19:22:05 - socket.io ready - accepting connections
+11 Mar 19:22:05 - socket.io ready - accepting connections
+11 Mar 19:22:07 - socket.io ready - accepting connections
+11 Mar 19:22:07 - socket.io ready - accepting connections
+11 Mar 19:22:15 - socket.io ready - accepting connections
+11 Mar 19:22:15 - socket.io ready - accepting connections
+11 Mar 19:22:15 - socket.io ready - accepting connections
+11 Mar 19:22:15 - socket.io ready - accepting connections
+11 Mar 19:22:15 - socket.io ready - accepting connections
+11 Mar 19:22:15 - socket.io ready - accepting connections
+11 Mar 19:22:15 - socket.io ready - accepting connections
+11 Mar 19:22:16 - socket.io ready - accepting connections
+11 Mar 19:22:30 - socket.io ready - accepting connections
+11 Mar 19:22:32 - socket.io ready - accepting connections
+11 Mar 19:22:32 - socket.io ready - accepting connections
+11 Mar 19:22:33 - socket.io ready - accepting connections
+11 Mar 19:22:36 - socket.io ready - accepting connections
+11 Mar 19:22:36 - socket.io ready - accepting connections
+11 Mar 19:22:36 - socket.io ready - accepting connections
+11 Mar 19:22:36 - socket.io ready - accepting connections
+11 Mar 19:22:47 - socket.io ready - accepting connections
+11 Mar 19:22:47 - socket.io ready - accepting connections
+11 Mar 19:22:50 - socket.io ready - accepting connections
+11 Mar 19:22:47 - socket.io ready - accepting connections
+11 Mar 19:22:53 - socket.io ready - accepting connections
+11 Mar 19:22:53 - socket.io ready - accepting connections
+11 Mar 19:22:54 - socket.io ready - accepting connections
+11 Mar 19:22:55 - socket.io ready - accepting connections
+11 Mar 19:23:04 - socket.io ready - accepting connections
+11 Mar 19:23:05 - socket.io ready - accepting connections
+11 Mar 19:23:05 - socket.io ready - accepting connections
+11 Mar 19:23:05 - socket.io ready - accepting connections
+11 Mar 19:23:07 - socket.io ready - accepting connections
+11 Mar 19:23:07 - socket.io ready - accepting connections
+11 Mar 19:23:08 - socket.io ready - accepting connections
+11 Mar 19:23:08 - socket.io ready - accepting connections
+11 Mar 19:23:16 - socket.io ready - accepting connections
+11 Mar 19:23:16 - socket.io ready - accepting connections
+11 Mar 19:23:16 - socket.io ready - accepting connections
+11 Mar 19:23:16 - socket.io ready - accepting connections
+11 Mar 19:23:16 - socket.io ready - accepting connections
+11 Mar 19:23:16 - socket.io ready - accepting connections
+11 Mar 19:23:17 - socket.io ready - accepting connections
+11 Mar 19:23:17 - socket.io ready - accepting connections
+11 Mar 19:23:30 - socket.io ready - accepting connections
+11 Mar 19:23:30 - socket.io ready - accepting connections
+11 Mar 19:23:30 - socket.io ready - accepting connections
+11 Mar 19:23:30 - socket.io ready - accepting connections
+11 Mar 19:23:30 - socket.io ready - accepting connections
+11 Mar 19:23:30 - socket.io ready - accepting connections
+11 Mar 19:23:30 - socket.io ready - accepting connections
+11 Mar 19:23:34 - socket.io ready - accepting connections
+11 Mar 19:23:34 - socket.io ready - accepting connections
+11 Mar 19:23:34 - socket.io ready - accepting connections
+11 Mar 19:23:35 - socket.io ready - accepting connections
+11 Mar 19:23:35 - socket.io ready - accepting connections
+11 Mar 19:23:35 - socket.io ready - accepting connections
+11 Mar 19:23:35 - socket.io ready - accepting connections
+11 Mar 19:23:35 - socket.io ready - accepting connections
+11 Mar 19:23:36 - socket.io ready - accepting connections
+11 Mar 19:23:37 - socket.io ready - accepting connections
+11 Mar 19:23:38 - socket.io ready - accepting connections
+11 Mar 19:23:38 - socket.io ready - accepting connections
+11 Mar 19:23:38 - socket.io ready - accepting connections
+11 Mar 19:23:38 - socket.io ready - accepting connections
+11 Mar 19:23:38 - socket.io ready - accepting connections
+11 Mar 19:23:38 - socket.io ready - accepting connections
+11 Mar 19:23:40 - socket.io ready - accepting connections
+11 Mar 19:23:40 - socket.io ready - accepting connections
+11 Mar 19:23:40 - socket.io ready - accepting connections
+11 Mar 19:23:40 - socket.io ready - accepting connections
+11 Mar 19:23:40 - socket.io ready - accepting connections
+11 Mar 19:23:40 - socket.io ready - accepting connections
+11 Mar 19:23:40 - socket.io ready - accepting connections
+11 Mar 19:23:40 - socket.io ready - accepting connections
+11 Mar 19:23:41 - socket.io ready - accepting connections
+11 Mar 19:23:42 - socket.io ready - accepting connections
+11 Mar 19:23:42 - socket.io ready - accepting connections
+11 Mar 19:23:42 - socket.io ready - accepting connections
+11 Mar 19:23:42 - socket.io ready - accepting connections
+11 Mar 19:23:42 - socket.io ready - accepting connections
+11 Mar 19:23:42 - socket.io ready - accepting connections
+11 Mar 19:23:42 - socket.io ready - accepting connections
+11 Mar 19:23:43 - socket.io ready - accepting connections
+11 Mar 19:23:43 - socket.io ready - accepting connections
+11 Mar 19:23:43 - socket.io ready - accepting connections
+11 Mar 19:23:43 - socket.io ready - accepting connections
+11 Mar 19:23:43 - socket.io ready - accepting connections
+11 Mar 19:23:43 - socket.io ready - accepting connections
+11 Mar 19:23:43 - socket.io ready - accepting connections
+11 Mar 19:23:43 - socket.io ready - accepting connections
+11 Mar 19:24:42 - socket.io ready - accepting connections
+11 Mar 19:24:43 - socket.io ready - accepting connections
+11 Mar 19:24:43 - socket.io ready - accepting connections
+11 Mar 19:24:43 - socket.io ready - accepting connections
+11 Mar 19:24:43 - socket.io ready - accepting connections
+11 Mar 19:24:43 - socket.io ready - accepting connections
+11 Mar 19:24:43 - socket.io ready - accepting connections
+11 Mar 19:24:43 - socket.io ready - accepting connections
+11 Mar 19:26:25 - Serving / - OK
+11 Mar 19:26:25 - Serving /juggernaut.js - OK
+11 Mar 19:26:25 - Serving /json.js - OK
+11 Mar 19:26:25 - Serving /socket_io.js - OK
+11 Mar 19:26:29 - Initializing client with transport "websocket"
+11 Mar 19:26:29 - Client 8670543048065156 connected
+11 Mar 19:26:30 - Received: {"type":"subscribe","channel":"channel1000"}
+11 Mar 19:26:30 - Client subscribing to: channel1000

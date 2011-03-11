@@ -1,0 +1,170 @@
+[Fri, 11 Mar 2011 21:26:30 GMT] INFO master started
+[Fri, 11 Mar 2011 21:26:30 GMT] INFO spawned worker 0
+[Fri, 11 Mar 2011 21:26:37 GMT] INFO master started
+[Fri, 11 Mar 2011 21:26:37 GMT] INFO spawned worker 0
+[Fri, 11 Mar 2011 21:26:37 GMT] INFO spawned worker 1
+[Fri, 11 Mar 2011 21:26:44 GMT] INFO master started
+[Fri, 11 Mar 2011 21:26:44 GMT] INFO spawned worker 0
+[Fri, 11 Mar 2011 21:26:44 GMT] INFO spawned worker 1
+[Fri, 11 Mar 2011 21:29:24 GMT] WARNING shutting down master
+[Fri, 11 Mar 2011 21:29:24 GMT] WARNING sent kill(SIGKILL) to all workers
+[Fri, 11 Mar 2011 21:29:24 GMT] ERROR worker 0 died
+[Fri, 11 Mar 2011 21:29:24 GMT] ERROR worker 1 died
+[Fri, 11 Mar 2011 21:29:26 GMT] INFO master started
+[Fri, 11 Mar 2011 21:29:26 GMT] INFO spawned worker 0
+[Fri, 11 Mar 2011 21:29:26 GMT] INFO spawned worker 1
+[Fri, 11 Mar 2011 21:29:54 GMT] INFO repl connection from 127.0.0.1
+[Fri, 11 Mar 2011 21:32:14 GMT] INFO master started
+[Fri, 11 Mar 2011 21:32:14 GMT] INFO spawned worker 0
+[Fri, 11 Mar 2011 21:32:15 GMT] INFO spawned worker 1
+[Fri, 11 Mar 2011 21:32:15 GMT] INFO spawned worker 2
+[Fri, 11 Mar 2011 21:32:15 GMT] INFO spawned worker 3
+[Fri, 11 Mar 2011 21:32:15 GMT] INFO spawned worker 4
+[Fri, 11 Mar 2011 21:32:15 GMT] INFO spawned worker 5
+[Fri, 11 Mar 2011 21:32:15 GMT] INFO spawned worker 6
+[Fri, 11 Mar 2011 21:32:15 GMT] INFO spawned worker 7
+[Fri, 11 Mar 2011 22:05:47 GMT] INFO master started
+[Fri, 11 Mar 2011 22:05:48 GMT] INFO master started
+[Fri, 11 Mar 2011 22:05:48 GMT] INFO master started
+[Fri, 11 Mar 2011 22:05:53 GMT] WARNING shutting down master
+[Fri, 11 Mar 2011 22:05:54 GMT] WARNING sent kill(SIGKILL) to all workers
+[Fri, 11 Mar 2011 22:05:54 GMT] ERROR worker 0 died
+[Fri, 11 Mar 2011 22:05:54 GMT] ERROR worker 1 died
+[Fri, 11 Mar 2011 22:06:01 GMT] INFO master started
+[Fri, 11 Mar 2011 22:06:01 GMT] INFO spawned worker 0
+[Fri, 11 Mar 2011 22:06:01 GMT] INFO spawned worker 1
+[Fri, 11 Mar 2011 22:06:01 GMT] INFO spawned worker 2
+[Fri, 11 Mar 2011 22:06:01 GMT] INFO spawned worker 3
+[Fri, 11 Mar 2011 22:06:01 GMT] INFO spawned worker 4
+[Fri, 11 Mar 2011 22:06:01 GMT] INFO spawned worker 5
+[Fri, 11 Mar 2011 22:06:01 GMT] INFO spawned worker 6
+[Fri, 11 Mar 2011 22:06:01 GMT] INFO spawned worker 7
+[Fri, 11 Mar 2011 22:07:02 GMT] INFO repl connection from 127.0.0.1
+[Fri, 11 Mar 2011 22:22:01 GMT] INFO master started
+[Fri, 11 Mar 2011 22:22:01 GMT] INFO spawned worker 0
+[Fri, 11 Mar 2011 22:22:01 GMT] INFO spawned worker 1
+[Fri, 11 Mar 2011 22:22:01 GMT] INFO spawned worker 2
+[Fri, 11 Mar 2011 22:22:01 GMT] INFO spawned worker 3
+[Fri, 11 Mar 2011 22:22:01 GMT] INFO spawned worker 4
+[Fri, 11 Mar 2011 22:22:01 GMT] INFO spawned worker 5
+[Fri, 11 Mar 2011 22:22:01 GMT] INFO spawned worker 6
+[Fri, 11 Mar 2011 22:22:01 GMT] INFO spawned worker 7
+[Fri, 11 Mar 2011 22:22:03 GMT] INFO master started
+[Fri, 11 Mar 2011 22:22:03 GMT] INFO spawned worker 0
+[Fri, 11 Mar 2011 22:22:03 GMT] INFO spawned worker 1
+[Fri, 11 Mar 2011 22:22:03 GMT] INFO spawned worker 2
+[Fri, 11 Mar 2011 22:22:03 GMT] INFO spawned worker 3
+[Fri, 11 Mar 2011 22:22:03 GMT] INFO spawned worker 4
+[Fri, 11 Mar 2011 22:22:03 GMT] INFO spawned worker 5
+[Fri, 11 Mar 2011 22:22:03 GMT] INFO spawned worker 6
+[Fri, 11 Mar 2011 22:22:03 GMT] INFO spawned worker 7
+[Fri, 11 Mar 2011 22:22:08 GMT] INFO master started
+[Fri, 11 Mar 2011 22:22:08 GMT] INFO spawned worker 0
+[Fri, 11 Mar 2011 22:22:08 GMT] INFO spawned worker 1
+[Fri, 11 Mar 2011 22:22:08 GMT] INFO spawned worker 2
+[Fri, 11 Mar 2011 22:22:08 GMT] INFO spawned worker 3
+[Fri, 11 Mar 2011 22:22:08 GMT] INFO spawned worker 4
+[Fri, 11 Mar 2011 22:22:08 GMT] INFO spawned worker 5
+[Fri, 11 Mar 2011 22:22:08 GMT] INFO spawned worker 6
+[Fri, 11 Mar 2011 22:22:08 GMT] INFO spawned worker 7
+[Fri, 11 Mar 2011 22:22:15 GMT] INFO repl connection from 127.0.0.1
+[Fri, 11 Mar 2011 22:22:17 GMT] INFO master started
+[Fri, 11 Mar 2011 22:22:17 GMT] INFO spawned worker 0
+[Fri, 11 Mar 2011 22:22:17 GMT] INFO spawned worker 1
+[Fri, 11 Mar 2011 22:22:17 GMT] INFO spawned worker 2
+[Fri, 11 Mar 2011 22:22:17 GMT] INFO spawned worker 3
+[Fri, 11 Mar 2011 22:22:18 GMT] INFO spawned worker 4
+[Fri, 11 Mar 2011 22:22:19 GMT] INFO spawned worker 5
+[Fri, 11 Mar 2011 22:22:19 GMT] INFO spawned worker 6
+[Fri, 11 Mar 2011 22:22:20 GMT] INFO spawned worker 7
+[Fri, 11 Mar 2011 22:22:45 GMT] INFO master started
+[Fri, 11 Mar 2011 22:22:45 GMT] INFO spawned worker 0
+[Fri, 11 Mar 2011 22:22:45 GMT] INFO spawned worker 1
+[Fri, 11 Mar 2011 22:22:47 GMT] INFO spawned worker 2
+[Fri, 11 Mar 2011 22:22:47 GMT] INFO spawned worker 3
+[Fri, 11 Mar 2011 22:22:47 GMT] INFO spawned worker 4
+[Fri, 11 Mar 2011 22:22:47 GMT] INFO spawned worker 5
+[Fri, 11 Mar 2011 22:22:47 GMT] INFO spawned worker 6
+[Fri, 11 Mar 2011 22:22:47 GMT] INFO spawned worker 7
+[Fri, 11 Mar 2011 22:22:56 GMT] INFO master started
+[Fri, 11 Mar 2011 22:22:56 GMT] INFO spawned worker 0
+[Fri, 11 Mar 2011 22:22:56 GMT] INFO spawned worker 1
+[Fri, 11 Mar 2011 22:22:59 GMT] INFO spawned worker 2
+[Fri, 11 Mar 2011 22:22:59 GMT] INFO spawned worker 3
+[Fri, 11 Mar 2011 22:23:00 GMT] INFO spawned worker 4
+[Fri, 11 Mar 2011 22:23:00 GMT] INFO spawned worker 5
+[Fri, 11 Mar 2011 22:23:00 GMT] INFO spawned worker 6
+[Fri, 11 Mar 2011 22:23:00 GMT] INFO spawned worker 7
+[Fri, 11 Mar 2011 22:23:10 GMT] INFO master started
+[Fri, 11 Mar 2011 22:23:10 GMT] INFO spawned worker 0
+[Fri, 11 Mar 2011 22:23:10 GMT] INFO spawned worker 1
+[Fri, 11 Mar 2011 22:23:10 GMT] INFO spawned worker 2
+[Fri, 11 Mar 2011 22:23:10 GMT] INFO spawned worker 3
+[Fri, 11 Mar 2011 22:23:11 GMT] INFO spawned worker 4
+[Fri, 11 Mar 2011 22:23:11 GMT] INFO spawned worker 5
+[Fri, 11 Mar 2011 22:23:11 GMT] INFO spawned worker 6
+[Fri, 11 Mar 2011 22:23:11 GMT] INFO spawned worker 7
+[Fri, 11 Mar 2011 22:23:25 GMT] INFO master started
+[Fri, 11 Mar 2011 22:23:25 GMT] INFO spawned worker 0
+[Fri, 11 Mar 2011 22:23:25 GMT] INFO spawned worker 1
+[Fri, 11 Mar 2011 22:23:25 GMT] INFO spawned worker 2
+[Fri, 11 Mar 2011 22:23:25 GMT] INFO spawned worker 3
+[Fri, 11 Mar 2011 22:23:25 GMT] INFO spawned worker 4
+[Fri, 11 Mar 2011 22:23:25 GMT] INFO spawned worker 5
+[Fri, 11 Mar 2011 22:23:25 GMT] INFO spawned worker 6
+[Fri, 11 Mar 2011 22:23:25 GMT] INFO spawned worker 7
+[Fri, 11 Mar 2011 22:23:33 GMT] INFO master started
+[Fri, 11 Mar 2011 22:23:33 GMT] INFO spawned worker 0
+[Fri, 11 Mar 2011 22:23:33 GMT] INFO spawned worker 1
+[Fri, 11 Mar 2011 22:23:34 GMT] INFO spawned worker 2
+[Fri, 11 Mar 2011 22:23:34 GMT] INFO spawned worker 3
+[Fri, 11 Mar 2011 22:23:34 GMT] INFO spawned worker 4
+[Fri, 11 Mar 2011 22:23:34 GMT] INFO spawned worker 5
+[Fri, 11 Mar 2011 22:23:34 GMT] INFO spawned worker 6
+[Fri, 11 Mar 2011 22:23:34 GMT] INFO spawned worker 7
+[Fri, 11 Mar 2011 22:23:35 GMT] INFO master started
+[Fri, 11 Mar 2011 22:23:35 GMT] INFO spawned worker 0
+[Fri, 11 Mar 2011 22:23:35 GMT] INFO spawned worker 1
+[Fri, 11 Mar 2011 22:23:36 GMT] INFO spawned worker 2
+[Fri, 11 Mar 2011 22:23:36 GMT] INFO spawned worker 3
+[Fri, 11 Mar 2011 22:23:36 GMT] INFO spawned worker 4
+[Fri, 11 Mar 2011 22:23:36 GMT] INFO spawned worker 5
+[Fri, 11 Mar 2011 22:23:37 GMT] INFO spawned worker 6
+[Fri, 11 Mar 2011 22:23:37 GMT] INFO spawned worker 7
+[Fri, 11 Mar 2011 22:23:39 GMT] INFO master started
+[Fri, 11 Mar 2011 22:23:39 GMT] INFO spawned worker 0
+[Fri, 11 Mar 2011 22:23:39 GMT] INFO spawned worker 1
+[Fri, 11 Mar 2011 22:23:39 GMT] INFO spawned worker 2
+[Fri, 11 Mar 2011 22:23:39 GMT] INFO spawned worker 3
+[Fri, 11 Mar 2011 22:23:39 GMT] INFO spawned worker 4
+[Fri, 11 Mar 2011 22:23:39 GMT] INFO spawned worker 5
+[Fri, 11 Mar 2011 22:23:39 GMT] INFO spawned worker 6
+[Fri, 11 Mar 2011 22:23:39 GMT] INFO spawned worker 7
+[Fri, 11 Mar 2011 22:23:41 GMT] INFO master started
+[Fri, 11 Mar 2011 22:23:41 GMT] INFO spawned worker 0
+[Fri, 11 Mar 2011 22:23:41 GMT] INFO spawned worker 1
+[Fri, 11 Mar 2011 22:23:41 GMT] INFO spawned worker 2
+[Fri, 11 Mar 2011 22:23:41 GMT] INFO spawned worker 3
+[Fri, 11 Mar 2011 22:23:41 GMT] INFO spawned worker 4
+[Fri, 11 Mar 2011 22:23:41 GMT] INFO spawned worker 5
+[Fri, 11 Mar 2011 22:23:41 GMT] INFO spawned worker 6
+[Fri, 11 Mar 2011 22:23:41 GMT] INFO spawned worker 7
+[Fri, 11 Mar 2011 22:23:42 GMT] INFO master started
+[Fri, 11 Mar 2011 22:23:42 GMT] INFO spawned worker 0
+[Fri, 11 Mar 2011 22:23:42 GMT] INFO spawned worker 1
+[Fri, 11 Mar 2011 22:23:42 GMT] INFO spawned worker 2
+[Fri, 11 Mar 2011 22:23:42 GMT] INFO spawned worker 3
+[Fri, 11 Mar 2011 22:23:42 GMT] INFO spawned worker 4
+[Fri, 11 Mar 2011 22:23:43 GMT] INFO spawned worker 5
+[Fri, 11 Mar 2011 22:23:43 GMT] INFO spawned worker 6
+[Fri, 11 Mar 2011 22:23:43 GMT] INFO spawned worker 7
+[Fri, 11 Mar 2011 22:24:42 GMT] INFO master started
+[Fri, 11 Mar 2011 22:24:42 GMT] INFO spawned worker 0
+[Fri, 11 Mar 2011 22:24:42 GMT] INFO spawned worker 1
+[Fri, 11 Mar 2011 22:24:42 GMT] INFO spawned worker 2
+[Fri, 11 Mar 2011 22:24:42 GMT] INFO spawned worker 3
+[Fri, 11 Mar 2011 22:24:42 GMT] INFO spawned worker 4
+[Fri, 11 Mar 2011 22:24:42 GMT] INFO spawned worker 5
+[Fri, 11 Mar 2011 22:24:42 GMT] INFO spawned worker 6
+[Fri, 11 Mar 2011 22:24:42 GMT] INFO spawned worker 7
+[Fri, 11 Mar 2011 22:27:03 GMT] INFO repl connection from 127.0.0.1

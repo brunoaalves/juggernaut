@@ -3,9 +3,12 @@
 //= require <json>
 //= require <socket_io>
 
+
 if (typeof window != 'undefined'){
 	WEB_SOCKET_SWF_LOCATION = '/WebSocketMain.swf';
 }
+
+
 
 var Juggernaut = function(options){
   this.options = options || {};
@@ -69,13 +72,16 @@ Juggernaut.fn.subscribe = function(channel, callback){
     message.type    = "subscribe";
     message.channel = channel;
 
-    this.write(message);
+    this.write(message);    
+    
+
   });
 
   this.on("connect", connectCallback);
 
-  if (this.state == "connected")
+  if (this.state == "connected"){
     connectCallback();
+  }
   else {
     this.connect();
   }

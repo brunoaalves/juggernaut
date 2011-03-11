@@ -33,9 +33,10 @@
       logElement.value += (data + "\n");
     };
     
-    window.WEB_SOCKET_SWF_LOCATION = "http://localhost:8080/WebSocketMainInsecure.swf"
+    WEB_SOCKET_SWF_LOCATION = "http://localhost:80/WebSocketMainInsecure.swf";
+    window.WEB_SOCKET_SWF_LOCATION = "http://localhost:80/WebSocketMainInsecure.swf";
     
-    var jug = new Juggernaut({secure: ('https:' == document.location.protocol)});
+    var jug = new Juggernaut({secure: ('https:' == document.location.protocol), host : "localhost", port : "80"});
     
     jug.on("connect", function(){ log("Connected") });
     jug.on("disconnect", function(){ log("Disconnected") });
@@ -43,7 +44,7 @@
     
     log("Subscribing to channel1");
     
-    jug.subscribe("channel1", function(data){
+    jug.subscribe("channel1000", function(data){
       log("Got data: " + data);
     });
     
